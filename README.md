@@ -1,10 +1,10 @@
 
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=voxtekz&color=524168&style=plastic&label=♡⸝⸝"/>
+ <img src="https://komarev.com/ghpvc/?username=voxtekz&color=f0c3bb&style=plastic&label=♡⸝⸝"/>
 <p align="center">
-<img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/99cced33-4a6d-4dab-8d4f-0b18f5921690" />
+<img width="370" height="400" alt="Image" src="https://github.com/user-attachments/assets/be59e168-6129-4495-a800-53276072ea52" />
 <p>
   <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CED2D1&width=435&lines=%22holy+shit+what+happened+to+you+%3F!%22" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F09ABB&width=435&lines=nerd+girl+i+dont+deserve+you+!" alt="Typing SVG" /></a>
    <p align="center">
  
