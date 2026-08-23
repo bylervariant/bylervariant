@@ -1,6 +1,6 @@
 
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=voxtekz&color=f0c3bb&style=plastic&label=♡⸝⸝"/>
+ <img src="https://komarev.com/ghpvc/?username=voxtekz&color=f0c3bb&style=plastic&label=♫"/>
  <p>
   <p align="center">
       <a href="https://bylerpilled.atabook.org/"> ata</a> 
